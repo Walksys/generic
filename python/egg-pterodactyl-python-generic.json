@@ -5,9 +5,9 @@
         "update_url": null
     },
     "exported_at": "2025-11-11T09:56:17+00:00",
-    "name": "python generic",
-    "author": "parker@parkervcp.com",
-    "description": "A Generic Python Egg for Pelican & Pterodactyl\n\nTested with: https:\/\/github.com\/Ispira\/pixel-bot",
+    "name": "Python",
+    "author": "walksysdev@gmail.com",
+    "description": "A Python Egg for Pelican & Pterodactyl\n\nTested with: https:\/\/github.com\/Ispira\/pixel-bot",
     "features": null,
     "docker_images": {
         "Python 3.14": "ghcr.io\/parkervcp\/yolks:python_3.14",
